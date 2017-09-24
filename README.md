@@ -1,2 +1,2 @@
 # nodejs_sample
-サンプルコード収 for nodejs
+サンプルコード集 for nodejs
